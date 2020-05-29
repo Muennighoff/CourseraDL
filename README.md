@@ -19,7 +19,7 @@ Five courses covering the following topics:
   - Transfer learning
 - Course 4: Convolutional Neural Networks
   - Classic CNNs
-  - CNN Variations – ResNets
+  - CNN Variations (ResNets, 3D Convolution, Inception)
   - Style Transfer
 - Course 5: Sequence Models:
   - GRUs
