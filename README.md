@@ -24,7 +24,7 @@ Five courses covering the following topics:
 - Course 5: Sequence Models:
   - GRUs
   - LSTMs
-  - Text Synthesis via word2vec
+  - Text Synthesis (GloVe & word2vec)
   - Attention models
   
 
