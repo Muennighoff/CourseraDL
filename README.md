@@ -30,3 +30,4 @@ Five courses covering the following topics:
 
 https://www.coursera.org/specializations/deep-learning
 
+![](certificate/Certificate_DL_NM.png)
